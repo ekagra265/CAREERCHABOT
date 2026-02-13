@@ -1,0 +1,9 @@
+
+streamlit
+scikit-learn
+sentence-transformers
+pandas
+pdfplumber
+python-docx
+plotly
+flask
